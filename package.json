@@ -1,0 +1,10 @@
+{
+  "name": "box-tut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "hardhat": "^2.6.0"
+  }
+}
